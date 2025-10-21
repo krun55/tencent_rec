@@ -1,4 +1,4 @@
-# CTR-HSTU: Multimodal Generative Recommendation
+# HSTU: Multimodal Generative Recommendation
 
 中文 | English
 
